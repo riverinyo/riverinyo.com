@@ -1,14 +1,14 @@
 {
-  "main.css": "/riverinyo/static/css/main.e3f71c6c.chunk.css",
-  "main.js": "/riverinyo/static/js/main.396d829b.chunk.js",
-  "main.js.map": "/riverinyo/static/js/main.396d829b.chunk.js.map",
-  "runtime~main.js": "/riverinyo/static/js/runtime~main.2b45aced.js",
-  "runtime~main.js.map": "/riverinyo/static/js/runtime~main.2b45aced.js.map",
-  "static/js/2.b934461c.chunk.js": "/riverinyo/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/riverinyo/static/js/2.b934461c.chunk.js.map",
-  "index.html": "/riverinyo/index.html",
-  "precache-manifest.569e8d3dae79e53c1eb3d1222c91b7b0.js": "/riverinyo/precache-manifest.569e8d3dae79e53c1eb3d1222c91b7b0.js",
-  "service-worker.js": "/riverinyo/service-worker.js",
-  "static/css/main.e3f71c6c.chunk.css.map": "/riverinyo/static/css/main.e3f71c6c.chunk.css.map",
-  "static/media/logo.svg": "/riverinyo/static/media/logo.5d5d9eef.svg"
+  "main.css": "/static/css/main.e3f71c6c.chunk.css",
+  "main.js": "/static/js/main.10aa774a.chunk.js",
+  "main.js.map": "/static/js/main.10aa774a.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.b934461c.chunk.js": "/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.7f67c67b5382201beeeb523cb232b7a8.js": "/precache-manifest.7f67c67b5382201beeeb523cb232b7a8.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.e3f71c6c.chunk.css.map": "/static/css/main.e3f71c6c.chunk.css.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
 }
